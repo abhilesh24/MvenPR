@@ -16,6 +16,7 @@ public class Test1 {
 		driver.get("https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager/6.0.1");
 		driver.manage().window().maximize();
 		System.out.println("hello");
+		System.out.println("hello newbranch");
 	}
 	
 	
