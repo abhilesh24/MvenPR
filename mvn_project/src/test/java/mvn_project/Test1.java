@@ -15,6 +15,7 @@ public class Test1 {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager/6.0.1");
 		driver.manage().window().maximize();
+		System.out.println("hello");
 	}
 	
 	
